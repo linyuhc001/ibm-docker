@@ -1,1 +1,1 @@
-# ibm-docker
+# ibm-wedog-docker
